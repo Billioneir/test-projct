@@ -6,3 +6,8 @@ body {
     background: #333;
     color: #fff;
 }
+.wrapper{
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
